@@ -70,6 +70,14 @@ Submit your deliverables on LEARN. Your proposal/reports must have the names `pr
   * 2: Achieves and *significantly* outperforms baseline implementation i.e. >= 75%.
   * 3 (Bonus): Program reaches the Pareto frontier based on runtime and accuracy, and scores >= 75%.
 
+**Report Rubric**:
+| Section                     | Value (/10) | Expectation                                                                                                                        |
+|-----------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Data Design                 | 2           |Methods used to collect data are well described and well justified, easy to follow, and fit the overall objectives of the project. The dataset source, preprocessing steps, and rationale for selecting the data are clearly explained. |
+| System Design               | 3           |System architecture is clearly described. Key components, algorithms, and workflows are explained in detail, including diagrams where appropriate. Design decisions are justified and align with the project goals.                                                                                                                                   |
+| Experiments & Results | 3           |Experiments are detailed and connected to the project. Results are well documented and reflect how the results informed the system design.                                                                                                                                  |
+| Challenges & Error Analysis | 2           |Challenges encountered are identified and discussed. Errors and limitations are analyzed thoughtfully, including possible causes and their impact on the results. You may suggest potential improvements or future work.
+
 ## Kaggle Competition (Scoring) + LEARN Submission (Code)
 
 This project uses **Kaggle for leaderboard rankings** and **LEARN for code submission/reproducibility**.
